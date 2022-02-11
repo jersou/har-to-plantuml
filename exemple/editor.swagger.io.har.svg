@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1353px" preserveAspectRatio="none" style="width:708px;height:1353px;background:#FFFFFF;" version="1.1" viewBox="0 0 708 1353" width="708px" zoomAndPan="magnify"><defs><filter height="300%" id="f17cxhyqxkz1nr" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="308" x2="308" y1="88.2969" y2="1268.7969"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="366" x2="366" y1="88.2969" y2="1268.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="291" y="84.9951">App</text><ellipse cx="308" cy="15" fill="#FEFECE" filter="url(#f17cxhyqxkz1nr)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M308,23 L308,50 M295,31 L321,31 M308,50 L295,65 M308,50 L321,65 " fill="none" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="291" y="1280.792">App</text><ellipse cx="308" cy="1294.0938" fill="#FEFECE" filter="url(#f17cxhyqxkz1nr)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M308,1302.0938 L308,1329.0938 M295,1310.0938 L321,1310.0938 M308,1329.0938 L295,1344.0938 M308,1329.0938 L321,1344.0938 " fill="none" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="347" y="84.9951">Serv</text><path d="M348,36 C348,26 366,26 366,26 C366,26 384,26 384,36 L384,62 C384,72 366,72 366,72 C366,72 348,72 348,62 L348,36 " fill="#FEFECE" filter="url(#f17cxhyqxkz1nr)" style="stroke:#000000;stroke-width:1.5;"/><path d="M348,36 C348,46 366,46 366,46 C366,46 384,46 384,36 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="347" y="1280.792">Serv</text><path d="M348,1294.0938 C348,1284.0938 366,1284.0938 366,1284.0938 C366,1284.0938 384,1284.0938 384,1294.0938 L384,1320.0938 C384,1330.0938 366,1330.0938 366,1330.0938 C366,1330.0938 348,1330.0938 348,1320.0938 L348,1294.0938 " fill="#FEFECE" filter="url(#f17cxhyqxkz1nr)" style="stroke:#000000;stroke-width:1.5;"/><path d="M348,1294.0938 C348,1304.0938 366,1304.0938 366,1304.0938 C366,1304.0938 384,1304.0938 384,1294.0938 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#A80036" points="354,127.9961,364,131.9961,354,135.9961,358,131.9961" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="308" x2="360" y1="131.9961" y2="131.9961"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="315" y="126.9302">GET</text><path d="M146,103.2969 L146,143.2969 L299,143.2969 L299,113.2969 L289,103.2969 L146,103.2969 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M289,103.2969 L289,113.2969 L299,113.2969 L289,103.2969 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="132" x="152" y="120.3638">/v2/pet/findByStatus</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="160" y="135.4966">&amp;status=sold</text><polygon fill="#A80036" points="319,318.457,309,322.457,319,326.457,315,322.457" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="313" x2="365" y1="322.457" y2="322.457"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="325" y="317.3911">[200]</text><path d="M371,157.5625 L371,469.5625 L591,469.5625 L591,167.5625 L581,157.5625 L371,157.5625 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M581,157.5625 L581,167.5625 L591,167.5625 L581,157.5625 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="377" y="174.6294">[</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="381" y="189.7622">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="385" y="204.895">"id": 469,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="385" y="220.0278">"category": {</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="389" y="235.1606">"id": 12,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="108" x="389" y="250.2935">"name": "ashba"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="12" x="385" y="265.4263">},</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="385" y="280.5591">"name": "cats",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="385" y="295.6919">"photoUrls": [</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="389" y="310.8247">"string"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="9" x="385" y="325.9575">],</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="385" y="341.0903">"tags": [</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="389" y="356.2231">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="393" y="371.356">"id": 13,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="393" y="386.4888">"name": "Самый красивый"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="389" y="401.6216">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="9" x="385" y="416.7544">],</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="385" y="431.8872">"status": "sold"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="381" y="447.02">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="377" y="462.1528">]</text><polygon fill="#A80036" points="354,501.3516,364,505.3516,354,509.3516,358,505.3516" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="308" x2="360" y1="505.3516" y2="505.3516"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="315" y="500.2856">GET</text><path d="M213,484.2188 L213,509.2188 L299,509.2188 L299,494.2188 L289,484.2188 L213,484.2188 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M289,484.2188 L289,494.2188 L299,494.2188 L289,484.2188 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="219" y="501.2856">/v2/pet/12</text><polygon fill="#A80036" points="319,661.5469,309,665.5469,319,669.5469,315,665.5469" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="313" x2="365" y1="665.5469" y2="665.5469"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="325" y="660.481">[200]</text><path d="M371,523.3516 L371,790.3516 L510,790.3516 L510,533.3516 L500,523.3516 L371,523.3516 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M500,523.3516 L500,533.3516 L510,533.3516 L500,523.3516 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="540.4185">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="381" y="555.5513">"id": 12,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="381" y="570.6841">"category": {</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="385" y="585.8169">"id": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="100" x="385" y="600.9497">"name": "dogs"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="12" x="381" y="616.0825">},</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="381" y="631.2153">"photoUrls": [</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="385" y="646.3481">"string"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="9" x="381" y="661.481">],</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="53" x="381" y="676.6138">"tags": [</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="385" y="691.7466">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="389" y="706.8794">"id": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="106" x="389" y="722.0122">"name": "string"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="385" y="737.145">}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="9" x="381" y="752.2778">],</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="381" y="767.4106">"status": "sold"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="782.5435">}</text><polygon fill="#A80036" points="354,829.3086,364,833.3086,354,837.3086,358,833.3086" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="308" x2="360" y1="833.3086" y2="833.3086"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="315" y="828.2427">POST</text><path d="M205,804.6094 L205,844.6094 L299,844.6094 L299,814.6094 L289,804.6094 L205,804.6094 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M289,804.6094 L289,814.6094 L299,814.6094 L289,804.6094 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="211" y="821.6763">/v2/pet/12</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="73" x="211" y="836.8091">name=test</text><polygon fill="#A80036" points="319,906.2734,309,910.2734,319,914.2734,315,910.2734" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="313" x2="365" y1="910.2734" y2="910.2734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="325" y="905.2075">[200]</text><path d="M371,858.875 L371,943.875 L520,943.875 L520,868.875 L510,858.875 L371,858.875 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M510,858.875 L510,868.875 L520,868.875 L510,858.875 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="875.9419">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="381" y="891.0747">"code": 200,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="124" x="381" y="906.2075">"type": "unknown",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="381" y="921.3403">"message": "12"</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="936.4731">}</text><polygon fill="#A80036" points="354,1036.2031,364,1040.2031,354,1044.2031,358,1040.2031" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="308" x2="360" y1="1040.2031" y2="1040.2031"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="315" y="1035.1372">POST</text><path d="M5,958.5391 L5,1104.5391 L299,1104.5391 L299,968.5391 L289,958.5391 L5,958.5391 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M289,958.5391 L289,968.5391 L299,968.5391 L289,958.5391 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="95" x="11" y="975.606">/v2/store/order</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="11" y="990.7388">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="15" y="1005.8716">"id": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="15" y="1021.0044">"petId": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="86" x="15" y="1036.1372">"quantity": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="269" x="15" y="1051.27">"shipDate": "2022-02-11T22:02:13.227Z",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="15" y="1066.4028">"status": "placed",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="15" y="1081.5356">"complete": false</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="11" y="1096.6685">}</text><polygon fill="#A80036" points="319,1188.832,309,1192.832,319,1196.832,315,1192.832" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="313" x2="365" y1="1192.832" y2="1192.832"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="34" x="325" y="1187.7661">[200]</text><path d="M371,1118.7344 L371,1249.7344 L699,1249.7344 L699,1128.7344 L689,1118.7344 L371,1118.7344 " fill="#FBFB77" filter="url(#f17cxhyqxkz1nr)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M689,1118.7344 L689,1128.7344 L699,1128.7344 L689,1118.7344 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="1135.8013">{</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="188" x="381" y="1150.9341">"id": 9223372036854776000,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="381" y="1166.0669">"petId": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="86" x="381" y="1181.1997">"quantity": 0,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="303" x="381" y="1196.3325">"shipDate": "2022-02-11T22:02:13.227+0000",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="119" x="381" y="1211.4653">"status": "placed",</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="381" y="1226.5981">"complete": false</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="377" y="1241.731">}</text><!--MD5=[d2ddf0cca7945dc9a7114354b1ff4f06]
+@startuml
+
+skinparam sequenceMessageAlign direction
+
+actor App
+
+database Serv
+
+App -> Serv : GET
+note left
+/v2/pet/findByStatus
+  &status=sold
+end note
+App <- - Serv: [200]
+note right
+[
+ {
+  "id": 469,
+  "category": {
+   "id": 12,
+   "name": "ashba"
+  },
+  "name": "cats",
+  "photoUrls": [
+   "string"
+  ],
+  "tags": [
+   {
+    "id": 13,
+    "name": "Самый красивый"
+   }
+  ],
+  "status": "sold"
+ }
+]
+end note
+
+App -> Serv : GET
+note left
+/v2/pet/12
+end note
+App <- - Serv: [200]
+note right
+{
+ "id": 12,
+ "category": {
+  "id": 0,
+  "name": "dogs"
+ },
+ "photoUrls": [
+  "string"
+ ],
+ "tags": [
+  {
+   "id": 0,
+   "name": "string"
+  }
+ ],
+ "status": "sold"
+}
+end note
+
+App -> Serv : POST
+note left
+/v2/pet/12
+name=test
+end note
+App <- - Serv: [200]
+note right
+{
+ "code": 200,
+ "type": "unknown",
+ "message": "12"
+}
+end note
+
+App -> Serv : POST
+note left
+/v2/store/order
+{
+ "id": 0,
+ "petId": 0,
+ "quantity": 0,
+ "shipDate": "2022-02-11T22:02:13.227Z",
+ "status": "placed",
+ "complete": false
+}
+end note
+App <- - Serv: [200]
+note right
+{
+ "id": 9223372036854776000,
+ "petId": 0,
+ "quantity": 0,
+ "shipDate": "2022-02-11T22:02:13.227+0000",
+ "status": "placed",
+ "complete": false
+}
+end note
+
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 19:19:58 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>

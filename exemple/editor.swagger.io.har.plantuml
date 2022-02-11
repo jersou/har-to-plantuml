@@ -1,0 +1,101 @@
+@startuml
+
+skinparam sequenceMessageAlign direction
+
+actor App
+
+database Serv
+
+App -> Serv : GET
+note left
+/v2/pet/findByStatus
+  &status=sold
+end note
+App <-- Serv: [200]
+note right
+[
+ {
+  "id": 469,
+  "category": {
+   "id": 12,
+   "name": "ashba"
+  },
+  "name": "cats",
+  "photoUrls": [
+   "string"
+  ],
+  "tags": [
+   {
+    "id": 13,
+    "name": "Самый красивый"
+   }
+  ],
+  "status": "sold"
+ }
+]
+end note
+
+App -> Serv : GET
+note left
+/v2/pet/12
+end note
+App <-- Serv: [200]
+note right
+{
+ "id": 12,
+ "category": {
+  "id": 0,
+  "name": "dogs"
+ },
+ "photoUrls": [
+  "string"
+ ],
+ "tags": [
+  {
+   "id": 0,
+   "name": "string"
+  }
+ ],
+ "status": "sold"
+}
+end note
+
+App -> Serv : POST
+note left
+/v2/pet/12
+name=test
+end note
+App <-- Serv: [200]
+note right
+{
+ "code": 200,
+ "type": "unknown",
+ "message": "12"
+}
+end note
+
+App -> Serv : POST
+note left
+/v2/store/order
+{
+ "id": 0,
+ "petId": 0,
+ "quantity": 0,
+ "shipDate": "2022-02-11T22:02:13.227Z",
+ "status": "placed",
+ "complete": false
+}
+end note
+App <-- Serv: [200]
+note right
+{
+ "id": 9223372036854776000,
+ "petId": 0,
+ "quantity": 0,
+ "shipDate": "2022-02-11T22:02:13.227+0000",
+ "status": "placed",
+ "complete": false
+}
+end note
+
+@enduml

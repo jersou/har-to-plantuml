@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/HarToPlantuml.ts" programParameters="run --allow-read --allow-write">
+    <option name="applicationArguments" value="$PROJECT_DIR$/exemple/editor.swagger.io.har" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

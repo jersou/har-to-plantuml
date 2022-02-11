@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "36744c5c24dd9c326b412b2d14f3e6a06f659403",
+    "expires": "Fri, 11 Feb 2022 19:58:19 GMT",
+    "via": "1.1 varnish",
+    "x-github-request-id": "5E28:38C5:9B9836:A1238A:6206BEAF",
+    "date": "Fri, 11 Feb 2022 19:53:19 GMT",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"75017e7586757d86b19d644d1d5d32c2e8e00016e767cc2e62b83be84afcf3fd\"",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-served-by": "cache-cdg20768-CDG",
+    "x-timer": "S1644609199.331572,VS0,VE164",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/har-format/index.d.ts",
+  "now": {
+    "secs_since_epoch": 1644609199,
+    "nanos_since_epoch": 503612840
+  }
+}
