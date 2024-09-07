@@ -3,7 +3,7 @@ import {
   harStringToPlantuml,
   queryStringToPlantuml,
 } from "./HarToPlantuml.ts";
-import { assertEquals } from "https://deno.land/std@0.125.0/testing/asserts.ts";
+import { assertEquals } from "@std/assert";
 import { Entry } from "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/har-format/index.d.ts";
 
 Deno.test("queryStringToPlantuml", () => {

@@ -14,7 +14,7 @@ deno run -A HarToPlantuml.ts file.har
 or run from web directly (will be cached for the next launches) :
 
 ```shell
-deno run -A https://raw.githubusercontent.com/jersou/har-to-plantuml/main/HarToPlantuml.ts file.har
+deno run -A https://raw.githubusercontent.com/jersou/har-to-plantuml/master/HarToPlantuml.ts file.har
 ```
 
 ## Install HarToPlantuml
